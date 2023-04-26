@@ -13,6 +13,7 @@
 - 🛠 Skills: 
 ![HTML5](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22)
 ![CSS3](https://shields.io/badge/css3-black?logo=css3&style=for-the-badge%22)
+![TailwindCSS](https://shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge%22)
 ![Python](https://shields.io/badge/python-black?logo=python&style=for-the-badge%22)
 ![Flask](https://shields.io/badge/flask-black?logo=flask&style=for-the-badge%22)
 ![Django](https://shields.io/badge/django-black?logo=django&style=for-the-badge%22)
