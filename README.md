@@ -20,6 +20,7 @@
 ![Selenium](https://shields.io/badge/selenium-black?logo=selenium&style=for-the-badge%22)
 ![Javascript](https://shields.io/badge/javascript-black?logo=javascript&style=for-the-badge%22)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
+![Svelte](https://shields.io/badge/svelte-black?logo=svelte&style=for-the-badge%22)
 ![MySQL](https://shields.io/badge/mysql-black?logo=mysql&style=for-the-badge%22)
 ![SQlite](https://shields.io/badge/sqlite-black?logo=sqlite&style=for-the-badge%22)
 - 📫 How to reach me: [@egehanavcu](https://instagram.com/egehanavcu)
