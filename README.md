@@ -11,7 +11,7 @@
 ✨ I'm studying mathematical engineering at Yildiz Technical University and I love to learn new things.
 - 🌱 I’m currently learning Next.js
 - 🛠 Skills: 
-![HTML5](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22)
+![HTML5]([https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22))
 ![CSS3](https://shields.io/badge/css3-black?logo=css3&style=for-the-badge%22)
 ![TailwindCSS](https://shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge%22)
 ![Python](https://shields.io/badge/python-black?logo=python&style=for-the-badge%22)
@@ -21,6 +21,7 @@
 ![Javascript](https://shields.io/badge/javascript-black?logo=javascript&style=for-the-badge%22)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![Svelte](https://shields.io/badge/svelte-black?logo=svelte&style=for-the-badge%22)
+![Go](https://shields.io/badge/go-black?logo=go&style=for-the-badge%22)
 ![MySQL](https://shields.io/badge/mysql-black?logo=mysql&style=for-the-badge%22)
 ![SQlite](https://shields.io/badge/sqlite-black?logo=sqlite&style=for-the-badge%22)
 - 📫 How to reach me: [@egehanavcu](https://instagram.com/egehanavcu)
