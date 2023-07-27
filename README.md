@@ -11,7 +11,7 @@
 ✨ I'm studying mathematical engineering at Yildiz Technical University and I love to learn new things.
 - 🌱 I’m currently learning Next.js
 - 🛠 Skills: 
-![HTML5]([https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22))
+![HTML5](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22)
 ![CSS3](https://shields.io/badge/css3-black?logo=css3&style=for-the-badge%22)
 ![TailwindCSS](https://shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge%22)
 ![Python](https://shields.io/badge/python-black?logo=python&style=for-the-badge%22)
